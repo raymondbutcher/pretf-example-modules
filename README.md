@@ -1,2 +1,3 @@
 # pretf-example-modules
-Example modules for Pretf
+
+Example modules for [Pretf](https://github.com/raymondbutcher/pretf).
